@@ -41,4 +41,4 @@ The model processes an input image through the convolutional layers to extract r
 
 
 **Click on the Youtube link given below**
-[![Watch the video](https://img.youtube.com/vi/oWmAqrceugM/maxresdefault.jpg)](https://www.youtube.com/watch?v=oWmAqrceugM)
+[![Watch the video](https://img.youtube.com/vi/oWmAqrceugM/hqdefault.jpg)](https://www.youtube.com/watch?v=oWmAqrceugM)
